@@ -1,0 +1,72 @@
+{
+  "logo":{
+    "label":"360training",
+    "source":"/assets/img/logo.svg",
+    "url":"/LS360Dashboard/courses"
+  },
+  "userData":{
+    "userName":"Username",
+    "email":"username@email.com",
+    "firstName":"firstName",
+    "lastName":"lastName"
+  },
+  "topMenu":{
+    "child":[
+      {"label":"Account Information","type":"account-info","url":"#","content":null},
+      {"label":"Address Book","type":"address-book","url":"#","content":null},
+      {"label":"My Orders","type":"orders","url":"http://360training.com","content":null},
+      {"label":"Billing & Subscription","type":"billing","url":"http://360training.com","content":null},
+      {"label":"Support","type":"support","url":"#","content":"<p>Dynamic Content</p>"},
+      {"label":"MENU_DIVIDER","type":"menu_divider","url":"#","content":null},
+      {"label":"Terms Of Use","type":"terms","url":"http://www.360training.com/terms-of-use/","content":null},
+      {"label":"Privacy Policy","type":"privacy-policy","url":"https://lms.360training.com/lms/brands/default/en/smallprintpages/onlineprivacypolicy.html","content":null},
+      {"label":"MENU_DIVIDER","type":"menu_divider","url":"#","content":null},
+      {"label":"Sign Out","type":"sign-out","url":"#","content":null}
+    ]
+  },
+  "leftMenu":{
+      "label":"Dashboard",
+      "child":[
+        {
+          "label":"Learner",
+          "type":"learn",
+          "url":"#",
+          "child":[
+                {"label":"My Courses","type":"courses","url":"#"},
+                {"label":"My Subscriptions","type":"subscriptions","url":"#"},
+                {"label":"Transcripts & Certificates","type":"transcriptions","url":"#"}
+          ]
+        },
+        {
+          "label":"Author",
+          "type":"author",
+          "url":"#",
+          "child":[
+                {"label":"Create & Manage Courses","type":"create-course","url":"https://qa-cas.360training.com/cas/login?service=https://qa-wlcms.360training.com/lcms/j_spring_cas_security_check&auto=true"},
+                {"label":"Course Reports","type":"course-report","url":"https://qa-cas.360training.com/cas/login?service=https://qa-wlcms.360training.com/lcms/j_spring_cas_security_check&auto=true"}
+          ]
+        },
+        {
+          "label":"Manager",
+          "type":"manage",
+          "url":"#",
+          "child":[
+                {"label":"Manage Users","type":"manage-users","url":"https://qa-cas.360training.com/cas/login?auto=true&service=https://qa-lms.360training.com/lms/login.do?to=/lrn_myCourses.do"},
+                {"label":"Enroll Users","type":"enroll-users","url":"https://qa-cas.360training.com/cas/login?auto=true&service=https://qa-lms.360training.com/lms/login.do?to=/lrn_myCourses.do"},
+                {"label":"Run Reports","type":"run-report","url":"https://qa-cas.360training.com/cas/login?auto=true&service=https://qa-lms.360training.com/lms/login.do?to=/lrn_myCourses.do"}
+          ]
+        },
+        {
+          "label":"Resources",
+          "type":"resources",
+          "url":"#",
+          "child":[
+                {"label":"Shop Courses","type":"shop","url":"#"},
+                {"label":"Browse Free Courses","type":"browse-free-courses","url":"#"},
+                {"label":"Support Forum","type":"support","url":"#"}
+          ]
+        }
+    ]
+  },
+  "serverCurrentDate":"2016-08-21"
+}

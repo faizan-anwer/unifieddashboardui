@@ -1,0 +1,46 @@
+{
+  "subscriptionStatistics" : [ {
+    "value" : "ads_f10001_ntk_cs",
+    "extendedData" : {
+      "propertyname" : null,
+      "facet_id" : null,
+      "displaySequence" : null,
+      "maximumValuesToDisplay" : "-1",
+      "srchattr_id" : null,
+      "max_display" : null,
+      "zero_display" : null,
+      "selection" : null,
+      "sortorder" : null,
+      "storeent_id" : null,
+      "fname" : null,
+      "allValuesReturned" : true,
+      "allowMultipleValueSelection" : "false",
+      "fdesc" : null,
+      "groupId" : "0",
+      "group_id" : null,
+      "displayable" : null,
+      "propertyvalue" : null,
+      "srchattridentifier" : null,
+      "keyword_search" : null
+    },
+    "entry" : [ {
+      "value" : "ads_f10001_ntk_cs%3A%22Popular%22",
+      "label" : "Popular",
+      "count" : "500"
+    }, {
+      "value" : "ads_f10001_ntk_cs%3A%22New%22",
+      "label" : "New",
+      "count" : "250"
+    }, {
+      "value" : "ads_f10001_ntk_cs%3A%22Premium%22",
+      "label" : "Premium",
+      "count" : "350"
+    }, {
+      "value" : "ads_f10001_ntk_cs%3A%22eLM%22",
+      "label" : "eLM",
+      "count" : "2"
+    } ],
+    "name" : "Product Type"
+  } ],
+  "aggregateSubscriptionCoursesCount" : 605
+}

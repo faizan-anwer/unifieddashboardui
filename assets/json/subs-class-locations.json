@@ -1,0 +1,48 @@
+[
+  {
+    "locationName": "Karachi",
+    "classes": [
+      {
+        "className": "Classroom 1-K",
+        "classDate": "2016-1-17T08:00"
+      },
+      {
+        "className": "ClassRoom 2-K",
+        "classDate": "2016-02-02T08:00"
+      },
+      {
+        "className": "Classroom 3-K",
+        "classDate": "2016-03-17T08:00"
+      },
+      {
+        "className": "Classroom 4-K",
+        "classDate": "2016-04-17T08:00"
+      },
+      {
+        "className": "ClassRoom 5-K",
+        "classDate": "2016-05-02T08:00"
+      },
+      {
+        "className": "Classroom 6-K",
+        "classDate": "2016-06-17T08:00"
+      }
+    ]
+  },
+  {
+    "locationName": "Lahore",
+    "classes": [
+      {
+        "className": "Classroom 1-L",
+        "classDate": "2015-12-17T08:00"
+      },
+      {
+        "className": "ClassRoom 2-L",
+        "classDate": "2015-01-02T08:00"
+      },
+      {
+        "className": "Classroom 3-L",
+        "classDate": "2015-01-17T08:00"
+      }
+    ]
+  }
+]

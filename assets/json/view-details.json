@@ -1,0 +1,29 @@
+[
+  {
+    "firstAccessDate": "2015-02-20T19:08:55.57",
+    "lastAccessDate": "2015-02-20T19:25:41.277",
+    "launchesOccrued": 5,
+    "preTestDate": null,
+    "pretestScore": -1,
+    "completed": true,
+    "status": "completed",
+    "completionDate": "2015-02-20T19:28:08.137",
+    "percentComplete": 100,
+    "lowestPostTestScore": 75,
+    "averagePostTestScore": 75,
+    "highestPostTestScore": 75,
+    "firstPostTestDate": "2015-02-20T19:22:51.993",
+    "lastPostTestDate": "2015-02-20T19:22:51.993",
+    "numberPostTestsTaken": 1,
+    "lowestQuizScore": -1,
+    "averageQuizScore": 0,
+    "highestQuizScore": 0,
+    "numberQuizesTaken": 0,
+    "firstQuizDate": null,
+    "lastQuizDate": null,
+    "totalTimeInSeconds": 2465,
+    "certificateNumber": "OSHA-000632",
+    "certificateIssuedDate": "2015-02-20T19:28:08.337",
+    "learnerEnrollmentId": 247835
+  }
+]

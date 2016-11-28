@@ -1,0 +1,2404 @@
+{
+  "personalInformation": {
+    "firstName": "Haris",
+    "middleName": "",
+    "lastName": "Mairaj",
+    "address1": {
+      "streetAddress": "H# 406, Jauhar, Block 15",
+      "city": "Karachi",
+      "state": "",
+      "zipCode": "74700",
+      "country": "PK"
+    },
+    "address2": {
+      "streetAddress": "H# 123, North,",
+      "city": "Lahore",
+      "state": "",
+      "zipCode": "78787",
+      "country": "PK"
+    },
+    "emailAddress": "haris.mairaj@360training.com",
+    "phone": "021132154",
+    "officePhone": "5465464",
+    "officeExtension": "123",
+    "userName": "manager_learner@lms.com",
+    "password": "eed2efb6033cae22c99d92bf20c30a79d1450054",
+    "timeZone": [
+      {
+        "value": "8",
+        "text": "( GMT -12 : 0 ) Dateline (Eniwetok)",
+        "selected": true
+      },
+      {
+        "value": "9",
+        "text": "( GMT -11 : 0 ) Samoa (Samoa)",
+        "selected": false
+      },
+      {
+        "value": "10",
+        "text": "( GMT -10 : 0 ) Hawaii (Honolulu)",
+        "selected": false
+      },
+      {
+        "value": "11",
+        "text": "( GMT -9 : 0 ) Alaska (Ancorage)",
+        "selected": false
+      },
+      {
+        "value": "12",
+        "text": "( GMT -8 : 0 ) Pacific (San Jose)",
+        "selected": false
+      },
+      {
+        "value": "13",
+        "text": "( GMT -7 : 0 ) Mountain (Arizona)",
+        "selected": false
+      },
+      {
+        "value": "14",
+        "text": "( GMT -7 : 0 ) Mountain (Denver)",
+        "selected": false
+      },
+      {
+        "value": "15",
+        "text": "( GMT -6 : 0 ) Central Standard Time - CST",
+        "selected": false
+      },
+      {
+        "value": "16",
+        "text": "( GMT -6 : 0 ) Central (Chicago)",
+        "selected": false
+      },
+      {
+        "value": "17",
+        "text": "( GMT -6 : 0 ) Mexico (Mexico City,Tegucigalpa)",
+        "selected": false
+      },
+      {
+        "value": "18",
+        "text": "( GMT -6 : 0 ) Central (Regina)",
+        "selected": false
+      },
+      {
+        "value": "19",
+        "text": "( GMT -5 : 0 ) S. America Pacific (Bogota)",
+        "selected": false
+      },
+      {
+        "value": "20",
+        "text": "( GMT -5 : 0 ) Eastern (New York)",
+        "selected": false
+      },
+      {
+        "value": "21",
+        "text": "( GMT -5 : 0 ) Eastern (Indiana)",
+        "selected": false
+      },
+      {
+        "value": "22",
+        "text": "( GMT -4 : 0 ) Atlantic (Halifax)",
+        "selected": false
+      },
+      {
+        "value": "23",
+        "text": "( GMT -4 : 0 ) S. America Western (Caracas)",
+        "selected": false
+      },
+      {
+        "value": "24",
+        "text": "( GMT -3 : 30 ) Newfoundland (Newfoundland)",
+        "selected": false
+      },
+      {
+        "value": "25",
+        "text": "( GMT -3 : 0 ) S. America Eastern (Brasilia)",
+        "selected": false
+      },
+      {
+        "value": "26",
+        "text": "( GMT -3 : 0 ) S. America Eastern (Buenos Aires)",
+        "selected": false
+      },
+      {
+        "value": "27",
+        "text": "( GMT -2 : 0 ) Mid-Atlantic (Mid-Atlantic)",
+        "selected": false
+      },
+      {
+        "value": "28",
+        "text": "( GMT -1 : 0 ) Azores (Azores)",
+        "selected": false
+      },
+      {
+        "value": "29",
+        "text": "( GMT 0 : 0 ) Greenwich (Casablanca)",
+        "selected": false
+      },
+      {
+        "value": "30",
+        "text": "( GMT 0 : 0 ) GMT (London)",
+        "selected": false
+      },
+      {
+        "value": "31",
+        "text": "( GMT 1 : 0 ) Europe (Amsterdam)",
+        "selected": false
+      },
+      {
+        "value": "32",
+        "text": "( GMT 1 : 0 ) Europe (Paris)",
+        "selected": false
+      },
+      {
+        "value": "33",
+        "text": "( GMT 1 : 0 ) Europe (Prague)",
+        "selected": false
+      },
+      {
+        "value": "34",
+        "text": "( GMT 1 : 0 ) Europe (Berlin)",
+        "selected": false
+      },
+      {
+        "value": "35",
+        "text": "( GMT 2 : 0 ) Greece (Athens)",
+        "selected": false
+      },
+      {
+        "value": "36",
+        "text": "( GMT 2 : 0 ) Eastern Europe (Bucharest)",
+        "selected": false
+      },
+      {
+        "value": "37",
+        "text": "( GMT 2 : 0 ) Egypt (Cairo)",
+        "selected": false
+      },
+      {
+        "value": "38",
+        "text": "( GMT 2 : 0 ) South Africa (Pretoria)",
+        "selected": false
+      },
+      {
+        "value": "39",
+        "text": "( GMT 2 : 0 ) Northern Europe (Helsinki)",
+        "selected": false
+      },
+      {
+        "value": "40",
+        "text": "( GMT 2 : 0 ) Israel (Tel Aviv)",
+        "selected": false
+      },
+      {
+        "value": "41",
+        "text": "( GMT 3 : 0 ) Saudi Arabia (Baghdad)",
+        "selected": false
+      },
+      {
+        "value": "42",
+        "text": "( GMT 3 : 0 ) Russian (Moscow)",
+        "selected": false
+      },
+      {
+        "value": "43",
+        "text": "( GMT 3 : 0 ) Nairobi (Nairobi)",
+        "selected": false
+      },
+      {
+        "value": "44",
+        "text": "( GMT 3 : 0 ) Iran (Tehran)",
+        "selected": false
+      },
+      {
+        "value": "45",
+        "text": "( GMT 4 : 0 ) Arabian (Abu Dhabi, Muscat)",
+        "selected": false
+      },
+      {
+        "value": "46",
+        "text": "( GMT 4 : 0 ) Baku (Baku)",
+        "selected": false
+      },
+      {
+        "value": "47",
+        "text": "( GMT 4 : 0 ) Afghanistan (Kabul)",
+        "selected": false
+      },
+      {
+        "value": "48",
+        "text": "( GMT 5 : 0 ) West Asia (Ekaterinburg)",
+        "selected": false
+      },
+      {
+        "value": "49",
+        "text": "( GMT 5 : 0 ) West Asia (Islamabad)",
+        "selected": false
+      },
+      {
+        "value": "50",
+        "text": "( GMT 5 : 30 ) India (Bombay)",
+        "selected": false
+      },
+      {
+        "value": "51",
+        "text": "( GMT 6 : 0 ) Columbo (Columbo)",
+        "selected": false
+      },
+      {
+        "value": "52",
+        "text": "( GMT 6 : 0 ) Central Asia (Almaty)",
+        "selected": false
+      },
+      {
+        "value": "53",
+        "text": "( GMT 7 : 0 ) Bangkok (Bangkok)",
+        "selected": false
+      },
+      {
+        "value": "54",
+        "text": "( GMT 8 : 0 ) China (Beijing)",
+        "selected": false
+      },
+      {
+        "value": "55",
+        "text": "( GMT 8 : 0 ) Australia Western (Perth)",
+        "selected": false
+      },
+      {
+        "value": "56",
+        "text": "( GMT 8 : 0 ) Singapore (Singapore)",
+        "selected": false
+      },
+      {
+        "value": "57",
+        "text": "( GMT 8 : 0 ) Taipei (Hong Kong)",
+        "selected": false
+      },
+      {
+        "value": "58",
+        "text": "( GMT 9 : 0 ) Tokyo (Tokyo)",
+        "selected": false
+      },
+      {
+        "value": "59",
+        "text": "( GMT 9 : 0 ) Korea (Seoul)",
+        "selected": false
+      },
+      {
+        "value": "60",
+        "text": "( GMT 9 : 30 ) Yakutsk (Yakutsk)",
+        "selected": false
+      },
+      {
+        "value": "61",
+        "text": "( GMT 9 : 30 ) Australia Central (Adelaide)",
+        "selected": false
+      },
+      {
+        "value": "62",
+        "text": "( GMT 9 : 30 ) Australia Central (Darwin)",
+        "selected": false
+      },
+      {
+        "value": "63",
+        "text": "( GMT 10 : 0 ) Australia Eastern (Brisbane)",
+        "selected": false
+      },
+      {
+        "value": "64",
+        "text": "( GMT 10 : 0 ) Australia Eastern (Sydney)",
+        "selected": false
+      },
+      {
+        "value": "65",
+        "text": "( GMT 10 : 0 ) West Pacific (Guam)",
+        "selected": false
+      },
+      {
+        "value": "66",
+        "text": "( GMT 10 : 0 ) Tasmania (Hobart)",
+        "selected": false
+      },
+      {
+        "value": "67",
+        "text": "( GMT 10 : 0 ) Vladivostok (Vladivostok)",
+        "selected": false
+      },
+      {
+        "value": "68",
+        "text": "( GMT 11 : 0 ) Central Pacific (Solomon Is)",
+        "selected": false
+      },
+      {
+        "value": "69",
+        "text": "( GMT 12 : 0 ) New Zealand (Wellington)",
+        "selected": false
+      },
+      {
+        "value": "70",
+        "text": "( GMT 12 : 0 ) Fiji (Fiji)",
+        "selected": false
+      }
+    ]
+  },
+  "validationQuestions": [
+    {
+      "questions": [
+        {
+          "value": "0",
+          "selected": false,
+          "text": "Select a question"
+        },
+        {
+          "value": "101",
+          "selected": true,
+          "text": "What was your childhood nickname?"
+        },
+        {
+          "value": "102",
+          "selected": false,
+          "text": "In what city did you meet your spouse\/significant other?"
+        },
+        {
+          "value": "103",
+          "selected": false,
+          "text": "What school did you attend for sixth grade?"
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "questions": [
+        {
+          "value": "0",
+          "selected": false,
+          "text": "Select a question"
+        },
+        {
+          "value": "104",
+          "selected": true,
+          "text": "What is the middle name of your oldest child?"
+        },
+        {
+          "value": "105",
+          "selected": false,
+          "text": "What is your oldest sibling's middle name?"
+        },
+        {
+          "value": "106",
+          "selected": false,
+          "text": "What is the name of your favorite childhood friend?"
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "questions": [
+        {
+          "value": "0",
+          "selected": false,
+          "text": "Select a question"
+        },
+        {
+          "value": "107",
+          "selected": true,
+          "text": "What is your oldest cousin's first name?"
+        },
+        {
+          "value": "108",
+          "selected": false,
+          "text": "What is your maternal grandmother's maiden name?"
+        },
+        {
+          "value": "109",
+          "selected": false,
+          "text": "What is your favorite color?"
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "questions": [
+        {
+          "value": "0",
+          "selected": false,
+          "text": "Select a question"
+        },
+        {
+          "value": "110",
+          "selected": true,
+          "text": "What was the last name of your third grade teacher?"
+        },
+        {
+          "value": "111",
+          "selected": false,
+          "text": "What is your oldest siblings birth year? (e.g., 1969)"
+        },
+        {
+          "value": "112",
+          "selected": false,
+          "text": "In what city or town did your parents meet?"
+        }
+      ],
+      "answer": "1"
+    },
+    {
+      "questions": [
+        {
+          "value": "0",
+          "selected": false,
+          "text": "Select a question"
+        },
+        {
+          "value": "113",
+          "selected": true,
+          "text": "In what city or town was your first job?"
+        },
+        {
+          "value": "114",
+          "selected": false,
+          "text": "What is the name of a college you applied to but didn't attend?"
+        },
+        {
+          "value": "115",
+          "selected": false,
+          "text": "What was the name of your first stuffed animal?"
+        }
+      ],
+      "answer": "1"
+    }
+  ],
+  "customFields": [
+    {
+      "value": "10656",
+      "type": "DATETIMECUSTOMFIELD",
+      "required": false,
+      "label": "TEST DATE",
+      "options": null,
+      "text": "",
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10657",
+      "type": "NUMERICCUSTOMFIELD",
+      "required": true,
+      "label": "Encrypted TEST NUMBER",
+      "options": null,
+      "text": "",
+      "encrypted": true,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10657",
+      "type": "NUMERICCUSTOMFIELD",
+      "required": true,
+      "label": "TEST NUMBER",
+      "options": null,
+      "text": "",
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10659",
+      "type": "SSNCUSTOMFIELD",
+      "required": true,
+      "label": "TEST SSN",
+      "options": null,
+      "text": "",
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10652",
+      "type": "SINGLELINETEXTCUSTOMFIELD",
+      "required": false,
+      "label": "test",
+      "options": null,
+      "text": "",
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10653",
+      "type": "MULTIPLELINETEXTCUSTOMFIELD",
+      "required": true,
+      "label": "TEST Multiple Lines of Text",
+      "options": null,
+      "text": "",
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10653",
+      "type": "MULTIPLELINETEXTCUSTOMFIELD",
+      "required": true,
+      "label": "Encrypted TEST Multiple Lines of Text",
+      "options": null,
+      "text": "",
+      "encrypted": true,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10654",
+      "type": "SINGLESELECTCUSTOMFIELD",
+      "required": false,
+      "label": "horizontal RADIO BUTTON",
+      "options": [
+        {
+          "value": "4352",
+          "selected": false,
+          "text": "Option 1",
+          "label": "Option 1",
+          "displayOrder": 0
+        },
+        {
+          "value": "4353",
+          "selected": false,
+          "text": "Option 2",
+          "label": "Option 2",
+          "displayOrder": 1
+        },
+        {
+          "value": "4354",
+          "selected": false,
+          "text": "Option 3",
+          "label": "Option 3",
+          "displayOrder": 2
+        },
+        {
+          "value": "4355",
+          "selected": false,
+          "text": "Option 4",
+          "label": "Option 4",
+          "displayOrder": 3
+        },
+        {
+          "value": "4356",
+          "selected": true,
+          "text": "Option 5",
+          "label": "Option 5",
+          "displayOrder": 4
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10654",
+      "type": "SINGLESELECTCUSTOMFIELD",
+      "required": false,
+      "label": "Vertical RADIO BUTTON",
+      "options": [
+        {
+          "value": "4352",
+          "selected": false,
+          "text": "Option 1",
+          "label": "Option 1",
+          "displayOrder": 0
+        },
+        {
+          "value": "4353",
+          "selected": false,
+          "text": "Option 2",
+          "label": "Option 2",
+          "displayOrder": 1
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "10658",
+      "type": "MULTISELECTCUSTOMFIELD",
+      "required": false,
+      "label": "horizontal CHECK BOX",
+      "options": [
+        {
+          "value": "4356",
+          "selected": false,
+          "text": "Option 6",
+          "label": "Option 6",
+          "displayOrder": 0
+        },
+        {
+          "value": "4357",
+          "selected": true,
+          "text": "Option 7",
+          "label": "Option 7",
+          "displayOrder": 1
+        },
+        {
+          "value": "4358",
+          "selected": false,
+          "text": "Option 8",
+          "label": "Option 8",
+          "displayOrder": 2
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": true
+    },
+    {
+      "value": "10655",
+      "type": "MULTISELECTCUSTOMFIELD",
+      "required": false,
+      "label": "Vertical CHECK BOX",
+      "options": [
+        {
+          "value": "4354",
+          "selected": false,
+          "text": "Option 3",
+          "label": "Option 3",
+          "displayOrder": 0
+        },
+        {
+          "value": "4355",
+          "selected": false,
+          "text": "Option 4",
+          "label": "Option 4",
+          "displayOrder": 1
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": true
+    },
+    {
+      "value": "10658",
+      "type": "MULTISELECTCUSTOMFIELD",
+      "required": false,
+      "label": "Multi SELECT LIST",
+      "options": [
+        {
+          "value": "4356",
+          "selected": false,
+          "text": "Option 6",
+          "label": "Option 6",
+          "displayOrder": 0
+        },
+        {
+          "value": "4357",
+          "selected": true,
+          "text": "Option 7",
+          "label": "Option 7",
+          "displayOrder": 1
+        },
+        {
+          "value": "4358",
+          "selected": false,
+          "text": "Option 8",
+          "label": "Option 8",
+          "displayOrder": 2
+        },
+        {
+          "value": "4358",
+          "selected": false,
+          "text": "Option 8",
+          "label": "Option 8",
+          "displayOrder": 2
+        },
+        {
+          "value": "4358",
+          "selected": false,
+          "text": "Option 8",
+          "label": "Option 8",
+          "displayOrder": 2
+        },
+        {
+          "value": "4358",
+          "selected": false,
+          "text": "Option 8",
+          "label": "Option 8",
+          "displayOrder": 2
+        },
+        {
+          "value": "4358",
+          "selected": false,
+          "text": "Option 8",
+          "label": "Option 8",
+          "displayOrder": 2
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": false
+    }
+  ],
+  "reportingFields": [
+    {
+      "value": "3260",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "City of Pakistan-2014",
+      "options": [
+        {
+          "value": "2812",
+          "selected": false,
+          "text": "Karachi",
+          "label": "Karachi",
+          "displayOrder": 0
+        },
+        {
+          "value": "2813",
+          "selected": true,
+          "text": "Islamabad",
+          "label": "Islamabad",
+          "displayOrder": 1
+        },
+        {
+          "value": "2814",
+          "selected": false,
+          "text": "Sydney",
+          "label": "Sydney",
+          "displayOrder": 2
+        },
+        {
+          "value": "2815",
+          "selected": false,
+          "text": "Lahore",
+          "label": "Lahore",
+          "displayOrder": 3
+        },
+        {
+          "value": "2816",
+          "selected": false,
+          "text": "Rawalpindi",
+          "label": "Rawalpindi",
+          "displayOrder": 4
+        },
+        {
+          "value": "2817",
+          "selected": false,
+          "text": "Thatta",
+          "label": "Thatta",
+          "displayOrder": 5
+        },
+        {
+          "value": "2818",
+          "selected": false,
+          "text": "Abottabad",
+          "label": "Abottabad",
+          "displayOrder": 6
+        },
+        {
+          "value": "2819",
+          "selected": false,
+          "text": "Chakwal",
+          "label": "Chakwal",
+          "displayOrder": 7
+        },
+        {
+          "value": "2820",
+          "selected": false,
+          "text": "Quetta",
+          "label": "Quetta",
+          "displayOrder": 8
+        },
+        {
+          "value": "2821",
+          "selected": false,
+          "text": "Peshawer",
+          "label": "Peshawer",
+          "displayOrder": 9
+        },
+        {
+          "value": "3152",
+          "selected": false,
+          "text": "Sukkar",
+          "label": "Sukkar",
+          "displayOrder": 10
+        },
+        {
+          "value": "3153",
+          "selected": false,
+          "text": "Hyderabad",
+          "label": "Hyderabad",
+          "displayOrder": 11
+        },
+        {
+          "value": "5502",
+          "selected": false,
+          "text": "RawalKot",
+          "label": "RawalKot",
+          "displayOrder": 12
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "9303",
+      "type": "SINGLESELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Status-26th August 2014-edit612",
+      "options": [
+        {
+          "value": "3502",
+          "selected": true,
+          "text": "T",
+          "label": "T",
+          "displayOrder": 0
+        },
+        {
+          "value": "3503",
+          "selected": false,
+          "text": "F",
+          "label": "F",
+          "displayOrder": 1
+        }
+      ],
+      "text": "T",
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "9305",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Choose Menu 27th August 2014",
+      "options": [
+        {
+          "value": "3410",
+          "selected": false,
+          "text": "A",
+          "label": "A",
+          "displayOrder": 0
+        },
+        {
+          "value": "3411",
+          "selected": true,
+          "text": "B",
+          "label": "B",
+          "displayOrder": 1
+        },
+        {
+          "value": "3412",
+          "selected": false,
+          "text": "C",
+          "label": "C",
+          "displayOrder": 2
+        },
+        {
+          "value": "3413",
+          "selected": false,
+          "text": "D",
+          "label": "D",
+          "displayOrder": 3
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "9306",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": false,
+      "label": "Checkbox 27th August 2014-edit1",
+      "options": [
+        {
+          "value": "3418",
+          "selected": false,
+          "text": "11",
+          "label": "11",
+          "displayOrder": 0
+        },
+        {
+          "value": "3419",
+          "selected": false,
+          "text": "22",
+          "label": "22",
+          "displayOrder": 1
+        },
+        {
+          "value": "3420",
+          "selected": false,
+          "text": "33",
+          "label": "33",
+          "displayOrder": 2
+        },
+        {
+          "value": "3421",
+          "selected": true,
+          "text": "44",
+          "label": "44",
+          "displayOrder": 3
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": true
+    },
+    {
+      "value": "9352",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "City 26th August 2014-edit5",
+      "options": [
+        {
+          "value": "3352",
+          "selected": false,
+          "text": "Karachi",
+          "label": "Karachi",
+          "displayOrder": 1
+        },
+        {
+          "value": "3353",
+          "selected": true,
+          "text": "Lahore",
+          "label": "Lahore",
+          "displayOrder": 2
+        },
+        {
+          "value": "3354",
+          "selected": false,
+          "text": "Islamabad",
+          "label": "Islamabad",
+          "displayOrder": 0
+        },
+        {
+          "value": "3402",
+          "selected": false,
+          "text": "Quetta",
+          "label": "Quetta",
+          "displayOrder": 6
+        },
+        {
+          "value": "3409",
+          "selected": false,
+          "text": "London",
+          "label": "London",
+          "displayOrder": 3
+        },
+        {
+          "value": "3426",
+          "selected": false,
+          "text": "Sydney",
+          "label": "Sydney",
+          "displayOrder": 7
+        },
+        {
+          "value": "4847",
+          "selected": false,
+          "text": "Makkah",
+          "label": "Makkah",
+          "displayOrder": 5
+        },
+        {
+          "value": "4848",
+          "selected": false,
+          "text": "Madina",
+          "label": "Madina",
+          "displayOrder": 4
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "9602",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "CM 29th Jan 2015",
+      "options": [
+        {
+          "value": "3452",
+          "selected": false,
+          "text": "January",
+          "label": "January",
+          "displayOrder": 0
+        },
+        {
+          "value": "3453",
+          "selected": false,
+          "text": "Feburary",
+          "label": "Feburary",
+          "displayOrder": 1
+        },
+        {
+          "value": "3454",
+          "selected": false,
+          "text": "March",
+          "label": "March",
+          "displayOrder": 2
+        },
+        {
+          "value": "3455",
+          "selected": false,
+          "text": "April",
+          "label": "April",
+          "displayOrder": 3
+        },
+        {
+          "value": "3456",
+          "selected": false,
+          "text": "May",
+          "label": "May",
+          "displayOrder": 4
+        },
+        {
+          "value": "3457",
+          "selected": false,
+          "text": "June ",
+          "label": "June ",
+          "displayOrder": 5
+        },
+        {
+          "value": "3458",
+          "selected": false,
+          "text": "July ",
+          "label": "July ",
+          "displayOrder": 6
+        },
+        {
+          "value": "3459",
+          "selected": false,
+          "text": "August",
+          "label": "August",
+          "displayOrder": 7
+        },
+        {
+          "value": "3460",
+          "selected": true,
+          "text": "September",
+          "label": "September",
+          "displayOrder": 8
+        },
+        {
+          "value": "3461",
+          "selected": false,
+          "text": "October",
+          "label": "October",
+          "displayOrder": 9
+        },
+        {
+          "value": "3462",
+          "selected": false,
+          "text": "November",
+          "label": "November",
+          "displayOrder": 10
+        },
+        {
+          "value": "3463",
+          "selected": false,
+          "text": "December",
+          "label": "December",
+          "displayOrder": 11
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10052",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": false,
+      "label": "Color 2016-edit1",
+      "options": [
+        {
+          "value": "4652",
+          "selected": true,
+          "text": "White",
+          "label": "White",
+          "displayOrder": 0
+        },
+        {
+          "value": "4653",
+          "selected": false,
+          "text": "Yellow",
+          "label": "Yellow",
+          "displayOrder": 1
+        },
+        {
+          "value": "4654",
+          "selected": false,
+          "text": "Pink",
+          "label": "Pink",
+          "displayOrder": 2
+        },
+        {
+          "value": "4655",
+          "selected": false,
+          "text": "Purple",
+          "label": "Purple",
+          "displayOrder": 3
+        },
+        {
+          "value": "4656",
+          "selected": false,
+          "text": "Blue",
+          "label": "Blue",
+          "displayOrder": 4
+        },
+        {
+          "value": "4657",
+          "selected": false,
+          "text": "Cyan",
+          "label": "Cyan",
+          "displayOrder": 5
+        },
+        {
+          "value": "4658",
+          "selected": false,
+          "text": "Gray",
+          "label": "Gray",
+          "displayOrder": 6
+        },
+        {
+          "value": "4659",
+          "selected": false,
+          "text": "Ash Gray",
+          "label": "Ash Gray",
+          "displayOrder": 7
+        },
+        {
+          "value": "4660",
+          "selected": false,
+          "text": "Sky Blue",
+          "label": "Sky Blue",
+          "displayOrder": 8
+        },
+        {
+          "value": "4661",
+          "selected": false,
+          "text": "Royal Blue",
+          "label": "Royal Blue",
+          "displayOrder": 9
+        },
+        {
+          "value": "4662",
+          "selected": false,
+          "text": "Green",
+          "label": "Green",
+          "displayOrder": 10
+        },
+        {
+          "value": "4663",
+          "selected": false,
+          "text": "Lime",
+          "label": "Lime",
+          "displayOrder": 11
+        },
+        {
+          "value": "4664",
+          "selected": false,
+          "text": "Hazle",
+          "label": "Hazle",
+          "displayOrder": 12
+        },
+        {
+          "value": "4665",
+          "selected": false,
+          "text": "Indigo",
+          "label": "Indigo",
+          "displayOrder": 13
+        },
+        {
+          "value": "4666",
+          "selected": false,
+          "text": "Brown",
+          "label": "Brown",
+          "displayOrder": 14
+        },
+        {
+          "value": "4667",
+          "selected": false,
+          "text": "Turqoise",
+          "label": "Turqoise",
+          "displayOrder": 15
+        },
+        {
+          "value": "4668",
+          "selected": false,
+          "text": "Orange",
+          "label": "Orange",
+          "displayOrder": 16
+        },
+        {
+          "value": "4669",
+          "selected": false,
+          "text": "Fone",
+          "label": "Fone",
+          "displayOrder": 17
+        },
+        {
+          "value": "4670",
+          "selected": false,
+          "text": "Olive Green",
+          "label": "Olive Green",
+          "displayOrder": 18
+        },
+        {
+          "value": "4671",
+          "selected": false,
+          "text": "Midnight Blue",
+          "label": "Midnight Blue",
+          "displayOrder": 19
+        },
+        {
+          "value": "4672",
+          "selected": false,
+          "text": "Red",
+          "label": "Red",
+          "displayOrder": 20
+        },
+        {
+          "value": "4673",
+          "selected": false,
+          "text": "Coffee",
+          "label": "Coffee",
+          "displayOrder": 21
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10102",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Color2-Feb 2016",
+      "options": [
+        {
+          "value": "4702",
+          "selected": false,
+          "text": "Zink Blue",
+          "label": "Zink Blue",
+          "displayOrder": 29
+        },
+        {
+          "value": "4703",
+          "selected": false,
+          "text": "Teal",
+          "label": "Teal",
+          "displayOrder": 25
+        },
+        {
+          "value": "4704",
+          "selected": false,
+          "text": "Ice Blue",
+          "label": "Ice Blue",
+          "displayOrder": 14
+        },
+        {
+          "value": "4705",
+          "selected": false,
+          "text": "Ash Gray",
+          "label": "Ash Gray",
+          "displayOrder": 1
+        },
+        {
+          "value": "4706",
+          "selected": false,
+          "text": "Black",
+          "label": "Black",
+          "displayOrder": 2
+        },
+        {
+          "value": "4707",
+          "selected": false,
+          "text": "Blue",
+          "label": "Blue",
+          "displayOrder": 3
+        },
+        {
+          "value": "4708",
+          "selected": false,
+          "text": "Cyan",
+          "label": "Cyan",
+          "displayOrder": 6
+        },
+        {
+          "value": "4709",
+          "selected": false,
+          "text": "Deep Sea",
+          "label": "Deep Sea",
+          "displayOrder": 7
+        },
+        {
+          "value": "4710",
+          "selected": false,
+          "text": "Fone",
+          "label": "Fone",
+          "displayOrder": 9
+        },
+        {
+          "value": "4711",
+          "selected": false,
+          "text": "Green",
+          "label": "Green",
+          "displayOrder": 11
+        },
+        {
+          "value": "4712",
+          "selected": false,
+          "text": "Hazle",
+          "label": "Hazle",
+          "displayOrder": 12
+        },
+        {
+          "value": "4713",
+          "selected": false,
+          "text": "Indigo",
+          "label": "Indigo",
+          "displayOrder": 15
+        },
+        {
+          "value": "4714",
+          "selected": false,
+          "text": "Lime Green",
+          "label": "Lime Green",
+          "displayOrder": 16
+        },
+        {
+          "value": "4715",
+          "selected": false,
+          "text": "Navy Blue",
+          "label": "Navy Blue",
+          "displayOrder": 19
+        },
+        {
+          "value": "4716",
+          "selected": false,
+          "text": "Orange",
+          "label": "Orange",
+          "displayOrder": 20
+        },
+        {
+          "value": "4717",
+          "selected": false,
+          "text": "Pink",
+          "label": "Pink",
+          "displayOrder": 21
+        },
+        {
+          "value": "4718",
+          "selected": false,
+          "text": "Purple",
+          "label": "Purple",
+          "displayOrder": 22
+        },
+        {
+          "value": "4719",
+          "selected": false,
+          "text": "Red",
+          "label": "Red",
+          "displayOrder": 23
+        },
+        {
+          "value": "4720",
+          "selected": false,
+          "text": "Royal Blue",
+          "label": "Royal Blue",
+          "displayOrder": 24
+        },
+        {
+          "value": "4721",
+          "selected": false,
+          "text": "Turqoise",
+          "label": "Turqoise",
+          "displayOrder": 26
+        },
+        {
+          "value": "4722",
+          "selected": false,
+          "text": "White",
+          "label": "White",
+          "displayOrder": 27
+        },
+        {
+          "value": "4723",
+          "selected": false,
+          "text": "Yellow",
+          "label": "Yellow",
+          "displayOrder": 28
+        },
+        {
+          "value": "4724",
+          "selected": false,
+          "text": "Apple green",
+          "label": "Apple green",
+          "displayOrder": 0
+        },
+        {
+          "value": "4725",
+          "selected": false,
+          "text": "Gray",
+          "label": "Gray",
+          "displayOrder": 10
+        },
+        {
+          "value": "4726",
+          "selected": false,
+          "text": "Honey",
+          "label": "Honey",
+          "displayOrder": 13
+        },
+        {
+          "value": "4727",
+          "selected": false,
+          "text": "Midnight Blue",
+          "label": "Midnight Blue",
+          "displayOrder": 18
+        },
+        {
+          "value": "4728",
+          "selected": false,
+          "text": "Dull Golden",
+          "label": "Dull Golden",
+          "displayOrder": 8
+        },
+        {
+          "value": "4729",
+          "selected": true,
+          "text": "Choaclate Brown",
+          "label": "Choaclate Brown",
+          "displayOrder": 5
+        },
+        {
+          "value": "4730",
+          "selected": false,
+          "text": "Maroon",
+          "label": "Maroon",
+          "displayOrder": 17
+        },
+        {
+          "value": "4731",
+          "selected": false,
+          "text": "Brown",
+          "label": "Brown",
+          "displayOrder": 4
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10103",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "US States-2016",
+      "options": [
+        {
+          "value": "4732",
+          "selected": false,
+          "text": "AL ",
+          "label": "AL ",
+          "displayOrder": 1
+        },
+        {
+          "value": "4733",
+          "selected": false,
+          "text": "AK ",
+          "label": "AK ",
+          "displayOrder": 0
+        },
+        {
+          "value": "4734",
+          "selected": false,
+          "text": "AZ ",
+          "label": "AZ ",
+          "displayOrder": 4
+        },
+        {
+          "value": "4735",
+          "selected": false,
+          "text": "AR ",
+          "label": "AR ",
+          "displayOrder": 3
+        },
+        {
+          "value": "4736",
+          "selected": false,
+          "text": "CA ",
+          "label": "CA ",
+          "displayOrder": 5
+        },
+        {
+          "value": "4737",
+          "selected": false,
+          "text": "CO ",
+          "label": "CO ",
+          "displayOrder": 6
+        },
+        {
+          "value": "4738",
+          "selected": false,
+          "text": "CT ",
+          "label": "CT ",
+          "displayOrder": 7
+        },
+        {
+          "value": "4739",
+          "selected": false,
+          "text": "DE ",
+          "label": "DE ",
+          "displayOrder": 9
+        },
+        {
+          "value": "4740",
+          "selected": false,
+          "text": "DC",
+          "label": "DC",
+          "displayOrder": 8
+        },
+        {
+          "value": "4741",
+          "selected": false,
+          "text": "FL ",
+          "label": "FL ",
+          "displayOrder": 10
+        },
+        {
+          "value": "4742",
+          "selected": false,
+          "text": "GA ",
+          "label": "GA ",
+          "displayOrder": 11
+        },
+        {
+          "value": "4743",
+          "selected": false,
+          "text": "HI ",
+          "label": "HI ",
+          "displayOrder": 13
+        },
+        {
+          "value": "4744",
+          "selected": false,
+          "text": "ID ",
+          "label": "ID ",
+          "displayOrder": 15
+        },
+        {
+          "value": "4745",
+          "selected": false,
+          "text": "IL ",
+          "label": "IL ",
+          "displayOrder": 16
+        },
+        {
+          "value": "4746",
+          "selected": false,
+          "text": "IN ",
+          "label": "IN ",
+          "displayOrder": 17
+        },
+        {
+          "value": "4747",
+          "selected": false,
+          "text": "ME ",
+          "label": "ME ",
+          "displayOrder": 24
+        },
+        {
+          "value": "4748",
+          "selected": false,
+          "text": "MD ",
+          "label": "MD ",
+          "displayOrder": 23
+        },
+        {
+          "value": "4749",
+          "selected": false,
+          "text": "MA ",
+          "label": "MA ",
+          "displayOrder": 21
+        },
+        {
+          "value": "4750",
+          "selected": false,
+          "text": "MI ",
+          "label": "MI ",
+          "displayOrder": 25
+        },
+        {
+          "value": "4751",
+          "selected": false,
+          "text": "MN ",
+          "label": "MN ",
+          "displayOrder": 26
+        },
+        {
+          "value": "4752",
+          "selected": false,
+          "text": "MS ",
+          "label": "MS ",
+          "displayOrder": 28
+        },
+        {
+          "value": "4753",
+          "selected": false,
+          "text": "MO ",
+          "label": "MO ",
+          "displayOrder": 27
+        },
+        {
+          "value": "4754",
+          "selected": false,
+          "text": "MT",
+          "label": "MT",
+          "displayOrder": 29
+        },
+        {
+          "value": "4755",
+          "selected": false,
+          "text": "NE",
+          "label": "NE",
+          "displayOrder": 32
+        },
+        {
+          "value": "4756",
+          "selected": false,
+          "text": "NV",
+          "label": "NV",
+          "displayOrder": 37
+        },
+        {
+          "value": "4757",
+          "selected": false,
+          "text": "NH",
+          "label": "NH",
+          "displayOrder": 33
+        },
+        {
+          "value": "4758",
+          "selected": false,
+          "text": "NJ",
+          "label": "NJ",
+          "displayOrder": 34
+        },
+        {
+          "value": "4759",
+          "selected": false,
+          "text": "NM",
+          "label": "NM",
+          "displayOrder": 35
+        },
+        {
+          "value": "4760",
+          "selected": false,
+          "text": "NY",
+          "label": "NY",
+          "displayOrder": 38
+        },
+        {
+          "value": "4761",
+          "selected": false,
+          "text": "NC",
+          "label": "NC",
+          "displayOrder": 30
+        },
+        {
+          "value": "4762",
+          "selected": false,
+          "text": "ND",
+          "label": "ND",
+          "displayOrder": 31
+        },
+        {
+          "value": "4763",
+          "selected": false,
+          "text": "OH",
+          "label": "OH",
+          "displayOrder": 39
+        },
+        {
+          "value": "4764",
+          "selected": false,
+          "text": "OK",
+          "label": "OK",
+          "displayOrder": 40
+        },
+        {
+          "value": "4765",
+          "selected": false,
+          "text": "OR",
+          "label": "OR",
+          "displayOrder": 41
+        },
+        {
+          "value": "4766",
+          "selected": false,
+          "text": "PA",
+          "label": "PA",
+          "displayOrder": 42
+        },
+        {
+          "value": "4767",
+          "selected": false,
+          "text": "RI",
+          "label": "RI",
+          "displayOrder": 44
+        },
+        {
+          "value": "4768",
+          "selected": false,
+          "text": "SC",
+          "label": "SC",
+          "displayOrder": 45
+        },
+        {
+          "value": "4769",
+          "selected": false,
+          "text": "SD",
+          "label": "SD",
+          "displayOrder": 46
+        },
+        {
+          "value": "4770",
+          "selected": false,
+          "text": "TN",
+          "label": "TN",
+          "displayOrder": 47
+        },
+        {
+          "value": "4771",
+          "selected": true,
+          "text": "TX",
+          "label": "TX",
+          "displayOrder": 48
+        },
+        {
+          "value": "4772",
+          "selected": false,
+          "text": "UT",
+          "label": "UT",
+          "displayOrder": 50
+        },
+        {
+          "value": "4773",
+          "selected": false,
+          "text": "VT",
+          "label": "VT",
+          "displayOrder": 52
+        },
+        {
+          "value": "4774",
+          "selected": false,
+          "text": "VA",
+          "label": "VA",
+          "displayOrder": 51
+        },
+        {
+          "value": "4775",
+          "selected": false,
+          "text": "WA",
+          "label": "WA",
+          "displayOrder": 53
+        },
+        {
+          "value": "4776",
+          "selected": false,
+          "text": "WV",
+          "label": "WV",
+          "displayOrder": 55
+        },
+        {
+          "value": "4777",
+          "selected": false,
+          "text": "WI",
+          "label": "WI",
+          "displayOrder": 54
+        },
+        {
+          "value": "4778",
+          "selected": false,
+          "text": "WY",
+          "label": "WY",
+          "displayOrder": 56
+        },
+        {
+          "value": "4779",
+          "selected": false,
+          "text": "KY",
+          "label": "KY",
+          "displayOrder": 19
+        },
+        {
+          "value": "4780",
+          "selected": false,
+          "text": "AMERICAN SAMOA",
+          "label": "AMERICAN SAMOA",
+          "displayOrder": 2
+        },
+        {
+          "value": "4781",
+          "selected": false,
+          "text": "GUAM",
+          "label": "GUAM",
+          "displayOrder": 12
+        },
+        {
+          "value": "4782",
+          "selected": false,
+          "text": "NORTHERN MARIANA ISLANDS",
+          "label": "NORTHERN MARIANA ISLANDS",
+          "displayOrder": 36
+        },
+        {
+          "value": "4783",
+          "selected": false,
+          "text": "PUERTO RICO",
+          "label": "PUERTO RICO",
+          "displayOrder": 43
+        },
+        {
+          "value": "4784",
+          "selected": false,
+          "text": "U.S. VIRGIN ISLANDS",
+          "label": "U.S. VIRGIN ISLANDS",
+          "displayOrder": 49
+        },
+        {
+          "value": "4785",
+          "selected": false,
+          "text": "LA",
+          "label": "LA",
+          "displayOrder": 20
+        },
+        {
+          "value": "4786",
+          "selected": false,
+          "text": "MA",
+          "label": "MA",
+          "displayOrder": 22
+        },
+        {
+          "value": "4787",
+          "selected": false,
+          "text": "KS",
+          "label": "KS",
+          "displayOrder": 18
+        },
+        {
+          "value": "4789",
+          "selected": false,
+          "text": "IA",
+          "label": "IA",
+          "displayOrder": 14
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10152",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Fruits 2016",
+      "options": [
+        {
+          "value": "4802",
+          "selected": false,
+          "text": "Almond",
+          "label": "Almond",
+          "displayOrder": 0
+        },
+        {
+          "value": "4803",
+          "selected": false,
+          "text": "Apple",
+          "label": "Apple",
+          "displayOrder": 2
+        },
+        {
+          "value": "4804",
+          "selected": false,
+          "text": "Banana",
+          "label": "Banana",
+          "displayOrder": 3
+        },
+        {
+          "value": "4805",
+          "selected": false,
+          "text": "Coconut",
+          "label": "Coconut",
+          "displayOrder": 5
+        },
+        {
+          "value": "4806",
+          "selected": false,
+          "text": "Custard Apple",
+          "label": "Custard Apple",
+          "displayOrder": 6
+        },
+        {
+          "value": "4807",
+          "selected": false,
+          "text": "Fig",
+          "label": "Fig",
+          "displayOrder": 8
+        },
+        {
+          "value": "4808",
+          "selected": false,
+          "text": "Grapes",
+          "label": "Grapes",
+          "displayOrder": 9
+        },
+        {
+          "value": "4809",
+          "selected": false,
+          "text": "Guava",
+          "label": "Guava",
+          "displayOrder": 10
+        },
+        {
+          "value": "4810",
+          "selected": false,
+          "text": "Mango",
+          "label": "Mango",
+          "displayOrder": 12
+        },
+        {
+          "value": "4811",
+          "selected": false,
+          "text": "Melon",
+          "label": "Melon",
+          "displayOrder": 13
+        },
+        {
+          "value": "4812",
+          "selected": false,
+          "text": "Orange",
+          "label": "Orange",
+          "displayOrder": 14
+        },
+        {
+          "value": "4813",
+          "selected": false,
+          "text": "Papaya",
+          "label": "Papaya",
+          "displayOrder": 16
+        },
+        {
+          "value": "4814",
+          "selected": false,
+          "text": "Peach",
+          "label": "Peach",
+          "displayOrder": 17
+        },
+        {
+          "value": "4815",
+          "selected": false,
+          "text": "Pomegranate",
+          "label": "Pomegranate",
+          "displayOrder": 20
+        },
+        {
+          "value": "4816",
+          "selected": false,
+          "text": "Strawberries",
+          "label": "Strawberries",
+          "displayOrder": 22
+        },
+        {
+          "value": "4817",
+          "selected": false,
+          "text": "Tomato",
+          "label": "Tomato",
+          "displayOrder": 23
+        },
+        {
+          "value": "4818",
+          "selected": false,
+          "text": "Watermelon",
+          "label": "Watermelon",
+          "displayOrder": 24
+        },
+        {
+          "value": "4819",
+          "selected": false,
+          "text": "Kivi",
+          "label": "Kivi",
+          "displayOrder": 11
+        },
+        {
+          "value": "4820",
+          "selected": true,
+          "text": "Pine Apple",
+          "label": "Pine Apple",
+          "displayOrder": 19
+        },
+        {
+          "value": "4821",
+          "selected": false,
+          "text": "Raspberries",
+          "label": "Raspberries",
+          "displayOrder": 21
+        },
+        {
+          "value": "4822",
+          "selected": false,
+          "text": "Blue Berries",
+          "label": "Blue Berries",
+          "displayOrder": 4
+        },
+        {
+          "value": "4823",
+          "selected": false,
+          "text": "Peanut",
+          "label": "Peanut",
+          "displayOrder": 18
+        },
+        {
+          "value": "4824",
+          "selected": false,
+          "text": "Dates",
+          "label": "Dates",
+          "displayOrder": 7
+        },
+        {
+          "value": "5402",
+          "selected": false,
+          "text": "Apricot",
+          "label": "Apricot",
+          "displayOrder": 1
+        },
+        {
+          "value": "5403",
+          "selected": false,
+          "text": "Olive",
+          "label": "Olive",
+          "displayOrder": 15
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "horizonatl",
+      "checkBox": null
+    },
+    {
+      "value": "10202",
+      "type": "SINGLESELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Qualification 2016",
+      "options": [
+        {
+          "value": "4852",
+          "selected": false,
+          "text": "SSC",
+          "label": "SSC",
+          "displayOrder": 0
+        },
+        {
+          "value": "4853",
+          "selected": false,
+          "text": "HSC",
+          "label": "HSC",
+          "displayOrder": 1
+        },
+        {
+          "value": "4854",
+          "selected": false,
+          "text": "BA",
+          "label": "BA",
+          "displayOrder": 2
+        },
+        {
+          "value": "4855",
+          "selected": false,
+          "text": "BS",
+          "label": "BS",
+          "displayOrder": 3
+        },
+        {
+          "value": "4856",
+          "selected": false,
+          "text": "BBA",
+          "label": "BBA",
+          "displayOrder": 4
+        },
+        {
+          "value": "4857",
+          "selected": false,
+          "text": "MBA",
+          "label": "MBA",
+          "displayOrder": 5
+        },
+        {
+          "value": "4858",
+          "selected": false,
+          "text": "MS",
+          "label": "MS",
+          "displayOrder": 6
+        },
+        {
+          "value": "4859",
+          "selected": true,
+          "text": "MSc",
+          "label": "MSc",
+          "displayOrder": 7
+        },
+        {
+          "value": "4860",
+          "selected": false,
+          "text": "MCS",
+          "label": "MCS",
+          "displayOrder": 8
+        },
+        {
+          "value": "4861",
+          "selected": false,
+          "text": "Ph.D",
+          "label": "Ph.D",
+          "displayOrder": 9
+        }
+      ],
+      "text": "MSc",
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "10204",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Checkbox 2016",
+      "options": [
+        {
+          "value": "4869",
+          "selected": false,
+          "text": "Monday",
+          "label": "Monday",
+          "displayOrder": 0
+        },
+        {
+          "value": "4870",
+          "selected": false,
+          "text": "Wednesday",
+          "label": "Wednesday",
+          "displayOrder": 1
+        },
+        {
+          "value": "4871",
+          "selected": false,
+          "text": "Sunday",
+          "label": "Sunday",
+          "displayOrder": 2
+        },
+        {
+          "value": "4872",
+          "selected": true,
+          "text": "Friday",
+          "label": "Friday",
+          "displayOrder": 3
+        },
+        {
+          "value": "4873",
+          "selected": false,
+          "text": "Saturday",
+          "label": "Saturday",
+          "displayOrder": 4
+        },
+        {
+          "value": "4874",
+          "selected": false,
+          "text": "Thursday",
+          "label": "Thursday",
+          "displayOrder": 5
+        },
+        {
+          "value": "4875",
+          "selected": false,
+          "text": "Tuesday",
+          "label": "Tuesday",
+          "displayOrder": 6
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "10453",
+      "type": "MULTISELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Check Box 19th Feb 2016",
+      "options": [
+        {
+          "value": "5364",
+          "selected": false,
+          "text": "Karachi",
+          "label": "Karachi",
+          "displayOrder": 0
+        },
+        {
+          "value": "5365",
+          "selected": false,
+          "text": "Lahore",
+          "label": "Lahore",
+          "displayOrder": 3
+        },
+        {
+          "value": "5366",
+          "selected": true,
+          "text": "Quetta",
+          "label": "Quetta",
+          "displayOrder": 4
+        },
+        {
+          "value": "5368",
+          "selected": false,
+          "text": "Islamabad",
+          "label": "Islamabad",
+          "displayOrder": 7
+        },
+        {
+          "value": "5369",
+          "selected": false,
+          "text": "Hyderabad",
+          "label": "Hyderabad",
+          "displayOrder": 2
+        },
+        {
+          "value": "5370",
+          "selected": false,
+          "text": "Multan",
+          "label": "Multan",
+          "displayOrder": 5
+        },
+        {
+          "value": "5371",
+          "selected": false,
+          "text": "Rawalpindi",
+          "label": "Rawalpindi",
+          "displayOrder": 1
+        },
+        {
+          "value": "5372",
+          "selected": false,
+          "text": "Larkana",
+          "label": "Larkana",
+          "displayOrder": 6
+        }
+      ],
+      "text": null,
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    },
+    {
+      "value": "10502",
+      "type": "SINGLESELECTCREDITREPORTINGFIELD",
+      "required": true,
+      "label": "Radio Button-19th Feb 2016",
+      "options": [
+        {
+          "value": "5423",
+          "selected": false,
+          "text": "Midnight Blue",
+          "label": "Midnight Blue",
+          "displayOrder": 0
+        },
+        {
+          "value": "5424",
+          "selected": false,
+          "text": "Red",
+          "label": "Red",
+          "displayOrder": 1
+        },
+        {
+          "value": "5425",
+          "selected": false,
+          "text": "Green",
+          "label": "Green",
+          "displayOrder": 2
+        },
+        {
+          "value": "5426",
+          "selected": false,
+          "text": "Gray",
+          "label": "Gray",
+          "displayOrder": 3
+        },
+        {
+          "value": "5427",
+          "selected": false,
+          "text": "White",
+          "label": "White",
+          "displayOrder": 4
+        },
+        {
+          "value": "5428",
+          "selected": true,
+          "text": "Blue",
+          "label": "Blue",
+          "displayOrder": 5
+        },
+        {
+          "value": "5429",
+          "selected": false,
+          "text": "Indigo",
+          "label": "Indigo",
+          "displayOrder": 6
+        },
+        {
+          "value": "5430",
+          "selected": false,
+          "text": "Margenta",
+          "label": "Margenta",
+          "displayOrder": 7
+        },
+        {
+          "value": "5431",
+          "selected": false,
+          "text": "Pink ",
+          "label": "Pink ",
+          "displayOrder": 8
+        },
+        {
+          "value": "5432",
+          "selected": false,
+          "text": "Purple",
+          "label": "Purple",
+          "displayOrder": 9
+        },
+        {
+          "value": "5433",
+          "selected": false,
+          "text": "Muave",
+          "label": "Muave",
+          "displayOrder": 10
+        }
+      ],
+      "text": "Blue",
+      "encrypted": false,
+      "alignment": "vertical",
+      "checkBox": null
+    }
+  ]
+}
